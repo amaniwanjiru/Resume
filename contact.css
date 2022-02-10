@@ -1,0 +1,23 @@
+body{
+    background-color: antiquewhite;
+}
+
+.home {
+    text-align: right;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+h1 {
+    text-align: center;
+    /* background-color: #e2e2e2; */
+    background-color: peachpuff;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
